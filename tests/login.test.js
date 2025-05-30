@@ -2,6 +2,8 @@ const { registerUser, loginUser } = require('../src/authService'); // Ajuste o c
 const repositorioUsuario = require('../src/repositorioUsuario'); // Mock do repositório
 const authService = require('../src/authService');
 
+// para rodar só esse arquivo escreva no terminal:
+
 // tests/login.test.js
 
 
